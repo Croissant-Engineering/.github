@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Main Logo -->
-<img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/main/profile/ce_logo.png" alt="Croissant Engineering Logo" width="220" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/main/profile/ce_logo_github.png" alt="Croissant Engineering Logo" width="220" style="border-radius: 50%;" />
 
 <br />
 
@@ -19,21 +19,29 @@
   <tr style="border: none; background: none;">
     <!-- Project 1: FlowLinX -->
     <td width="33%" align="center" valign="top" style="border: none; padding: 20px;">
-      <img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/main/profile/fwlnx_logo.png" alt="FlowLinX Logo" width="100" style="border-radius: 50%; margin-bottom: 10px;" />
-      <h3>FlowLinX</h3>
+      <img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/main/profile/fwlnx_logo_github.png" alt="FlowLinX Logo" width="151" height="151" style="border-radius: 50%; margin-bottom: 10px; object-fit: cover;" />
+      <div style="margin-top: 10px; margin-bottom: 10px;">
+        <svg width="90" height="22" viewBox="0 0 90 22" style="display: block; margin: 0 auto;">
+          <text x="0" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="-0.5">
+            <tspan fill="#17768D">Flow</tspan><tspan fill="#F3795C">LinX</tspan>
+          </text>
+        </svg>
+      </div>
       <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">A unified, low-code platform for creating and automating complex business workflows. Secure, scalable, and intuitive. Craft seamless integration logic with a visual interface.</p>
     </td>
     <!-- Project 2: Auto-Segmentation -->
     <td width="33%" align="center" valign="top" style="border: none; padding: 20px;">
-      <img src="https://raw.githubusercontent.com/self-designed-placeholder/network.png" alt="Auto-Segmentation" width="100" style="opacity: 0.8; margin-bottom: 10px;" />
-      <h3>Auto-Segmentation</h3>
-      <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">State-of-the-art machine learning algorithms for automatic image and data segmentation. Highly accurate, efficient, and customizable for diverse applications.</p>
+ <text x="0" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="-0.5">
+            <tspan fill="#17768D">xStudio Auto-</tspan><tspan fill="#F3795C">Segnentation</tspan>
+          </text>
+      <p style="font-size: 14px; color: #8b949e; line-height: 1.5;"></p>
     </td>
     <!-- Project 3: xSplatting -->
     <td width="33%" align="center" valign="top" style="border: none; padding: 20px;">
-      <img src="https://raw.githubusercontent.com/self-designed-placeholder/splat.png" alt="xSplatting" width="100" style="opacity: 0.8; margin-bottom: 10px;" />
-      <h3>xSplatting</h3>
-      <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">Advanced radiance field rendering and data visualization toolkit. High-performance, photorealistic 3D scene reconstruction and interactive data exploration.</p>
+      <text x="0" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="-0.5">
+            <tspan fill="#17768D">xStudio Gaussian</tspan><tspan fill="#F3795C">Splatting</tspan>
+          </text>
+      <p style="font-size: 14px; color: #8b949e; line-height: 1.5;"></p>
     </td>
   </tr>
 </table>
