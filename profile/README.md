@@ -20,11 +20,7 @@
       <img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/main/profile/fwlnx_logo_github.png" alt="FlowLinX Logo" width="151" height="151" style="border-radius: 50%; margin-bottom: 10px; object-fit: cover;" />
       <br />
       <div style="margin-top: 10px; margin-bottom: 10px;">
-        <svg width="130" height="34" viewBox="0 0 130 34" style="display: block; margin: 0 auto;">
-          <text x="0" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">
-            <tspan fill="#17768D">Flow</tspan><tspan fill="#F3795C">LinX</tspan>
-          </text>
-        </svg>
+        <img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/refs/heads/main/profile/flowlinx_wordmark.svg" alt="FlowLinX" width="220" />
       </div>
       <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">A unified, low-code platform for creating and automating complex business workflows. Secure, scalable, and intuitive. Craft seamless integration logic with a visual interface.</p>
       <br /><br />
