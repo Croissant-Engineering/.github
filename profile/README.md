@@ -1,8 +1,7 @@
-
 <div align="center">
 
 <!-- Main Logo -->
-<img src="ce_logo.jpg" alt="Croissant Engineering Logo" width="220" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/main/profile/ce_logo.png" alt="Croissant Engineering Logo" width="220" style="border-radius: 50%;" />
 
 <br />
 
@@ -20,7 +19,7 @@
   <tr style="border: none; background: none;">
     <!-- Project 1: FlowLinX -->
     <td width="33%" align="center" valign="top" style="border: none; padding: 20px;">
-      <img src="fwlnx_logo.jpg" alt="FlowLinX Logo" width="100" style="border-radius: 50%; margin-bottom: 10px;" />
+      <img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/main/profile/fwlnx_logo.png" alt="FlowLinX Logo" width="100" style="border-radius: 50%; margin-bottom: 10px;" />
       <h3>FlowLinX</h3>
       <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">A unified, low-code platform for creating and automating complex business workflows. Secure, scalable, and intuitive. Craft seamless integration logic with a visual interface.</p>
     </td>
