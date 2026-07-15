@@ -28,11 +28,11 @@
     <!-- Project 2: Auto-Segmentation -->
     <td width="33%" align="center" valign="top" style="border: none; padding: 20px;">
       <br /><br />
-      <svg width="260" height="34" viewBox="0 0 260 34" style="display: block; margin: 0 auto;">
-        <text x="0" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">
-          <tspan fill="#17768D">xStudio Auto-</tspan><tspan fill="#F3795C">Segmentation</tspan>
-        </text>
-      </svg>
+      <img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/main/profile/autoseg_logo_circles.svg" alt="xStudio Auto-Segmentation Logo" width="151" height="151" style="border-radius: 50%; margin-bottom: 10px; object-fit: cover;" />
+      <br />
+      <div style="margin-top: 10px; margin-bottom: 10px;">
+        <img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/main/profile/autoseg_logo_text.svg" alt="xStudio Auto-Segmentation" width="220" />
+      </div>
       <p style="font-size: 14px; color: #8b949e; line-height: 1.5;"></p>
       <br /><br />
     </td>
