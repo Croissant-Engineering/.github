@@ -1,0 +1,15 @@
+<svg width="680" height="600" viewBox="0 0 680 600" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>AutoSeg logo circles: layered mask concept</title>
+<desc>Three overlapping circular mask shapes in blue, purple and mint, each with a black outline and a dashed inner boundary.</desc>
+<defs>
+<linearGradient id="g3a" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#87aedd"/><stop offset="100%" stop-color="#5a80ad"/></linearGradient>
+<linearGradient id="g3b" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#cda3e3"/><stop offset="100%" stop-color="#a374c6"/></linearGradient>
+<linearGradient id="g3c" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#a3e0c0"/><stop offset="100%" stop-color="#6fbf96"/></linearGradient>
+</defs>
+<rect x="0" y="0" width="680" height="600" rx="32" fill="#131723"/>
+<circle cx="285" cy="255" r="140" fill="url(#g3a)" stroke="#0a0c12" stroke-width="5"/>
+<circle cx="285" cy="255" r="90" fill="none" stroke="#0a0c12" stroke-width="2" stroke-dasharray="6 6" opacity="0.5"/>
+<circle cx="395" cy="300" r="95" fill="url(#g3b)" stroke="#0a0c12" stroke-width="5"/>
+<circle cx="420" cy="385" r="55" fill="url(#g3c)" stroke="#0a0c12" stroke-width="5"/>
+<circle cx="285" cy="255" r="6" fill="#e7edf2"/>
+</svg>
