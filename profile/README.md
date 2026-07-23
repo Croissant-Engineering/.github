@@ -22,7 +22,8 @@
       <div style="margin-top: 10px; margin-bottom: 10px;">
         <img src="https://raw.githubusercontent.com/Croissant-Engineering/.github/refs/heads/main/profile/flowlinx_wordmark.svg" alt="FlowLinX" width="220" />
       </div>
-      <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">A unified, low-code platform for creating and automating complex business workflows. Secure, scalable, and intuitive. Craft seamless integration logic with a visual interface.</p>
+      <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">Bring your Flow project — playlists, shots/assets, versions, notes and tasks —
+into xStudio, and publish playlists and new notes with annotations back to Flow.</p>
       <br /><br />
     </td>
     <!-- Project 2: Auto-Segmentation -->
